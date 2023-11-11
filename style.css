@@ -1,0 +1,156 @@
+/* body {
+    font-family: cursive;
+}
+h1, h2 {
+    font-family: Arial, Verdana, sans-serif;
+}
+.credits {
+    font-family: "Courier New", Courier,
+    monospace;} */
+    /* font size */
+    /* pixels */
+    /* p{
+        font-size: 30px;
+    } */
+    /* percentage */
+    /* p{
+        font-size: 200%;
+    } */
+    /* em */
+    /* p{
+        font-size: 3em;
+    } */
+    /* font-face */
+    /* @font-face {
+        font-family: test;
+        src: url(./fonts/RobotoSlab-Bold.ttf);
+    }
+    h1{
+        font-family: test;
+    } */
+    /* font-weigth */
+    /* p{
+        font-weight: bold;
+    } */
+    /* font-style */
+    /* h1{
+        font-style: italic;
+    } */
+    /* using id selector */
+    /* #normal{
+        font-style: normal;
+    }
+    #italic{
+        font-style: italic;
+    }
+    #oblique{
+        font-style: oblique;
+    } */
+    /* text-transform */
+    /* h1{
+        text-transform: uppercase;
+    } */
+    /* h1{
+        text-transform: capitalize;
+    } */
+    /* #none{
+        text-decoration: none;
+    }
+    #underline{
+        text-decoration: underline;
+    }
+    #overline{
+        text-decoration: overline;
+
+    }
+    #line-through{
+        text-decoration: line-through;
+    }
+    #blink{
+        text-decoration: blink;
+    } */
+    /* line-heigth */
+    /* p{
+        line-height: 100px;
+    } */
+    /* letter and word spacing*/
+    /* h1{
+        letter-spacing: 20px;}
+        h1{
+        word-spacing: 20px;
+    } */
+/* text-align */
+/* h1{
+    text-align: center;
+} */
+/* vertical-align */
+/* p{
+    vertical-align: baseline;
+} */
+/* text-indent */
+/* p{
+    text-indent: 50px;
+} */
+/* text-shadow */
+/* p{
+    background-color: #eeeeee;
+color: #666666;
+text-shadow: 1px 1px 0px #000000;
+} */
+/* first letter or line */
+/* p::first-letter{
+    color: red;
+}
+p::first-line{
+    color: blue;
+} */
+/* styling links */
+/* a:link{
+    color: gold;
+}
+a:visited{
+    color: blue;
+}
+a:hover{
+    color: red;
+}
+a:active{
+    color: green;
+} */
+/* responding to users */
+/* input.btn:hover{
+    color:red ;
+}
+input.btn:active{
+    background-color: blueviolet;
+} */
+/* input.btn:focus{
+    background-color: blue;
+}
+input.textbox:focus{
+    background-color: black;
+    color: white;
+} */
+/* attributes */
+/* h1 [test]{
+    color: red;
+} */
+/* equality */
+/* h1[test="hello"]{
+    color: red;
+} */
+/* h1[test~=jen]{
+    color: red;
+} */
+/* prefix */
+/* h1[test^=h]{
+    color: red;
+} */
+/* substring */
+/* h1[test*="el"]{
+    color: aliceblue;
+} */
+/* sufix */
+h1[test$=l]{
+    color: aliceblue;
+}
